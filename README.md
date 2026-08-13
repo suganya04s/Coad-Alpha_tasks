@@ -144,6 +144,8 @@ h1{
 }
     </style>
 </head>
+```
+```
 <body>
 
     <h1>Image Gallery</h1>
@@ -228,6 +230,8 @@ h1{
         <button class="next" onclick="nextImage()">&#10095;</button>
 
     </div>
+```
+```
 
    <script>
 let images = [
@@ -291,7 +295,7 @@ function filterImages(category) {
     }
   });
 }
-
+```
 
 </script>
 

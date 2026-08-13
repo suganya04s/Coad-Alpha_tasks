@@ -295,10 +295,8 @@ function filterImages(category) {
     }
   });
 }
-```
-
 </script>
-
-
 </body>
 </html>
+
+```

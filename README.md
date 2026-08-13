@@ -1,6 +1,7 @@
 # Coad-Alpha_task1 - Image Gallery
 
-<!DOCTYPE html>
+ ```
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
